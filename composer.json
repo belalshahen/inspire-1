@@ -1,0 +1,15 @@
+{
+    "name": "shaheen/inspire",
+    "autoload": {
+        "psr-4": {
+            "Shaheen\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "belalshahen",
+            "email": "106923197+belalshahen@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
